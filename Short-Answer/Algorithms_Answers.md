@@ -2,7 +2,8 @@
 
 ## Exercise I
 
-a)
+a) space O(1)
+   time O(log n)
 
 
 b)
