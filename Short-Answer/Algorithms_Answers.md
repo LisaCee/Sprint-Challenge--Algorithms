@@ -2,8 +2,8 @@
 
 ## Exercise I
 
-a) space O(1)
-   time O(log n)
+a) space: O(1)
+   time: O(n) --each program runs n times, regardless of the size of n
 
 
 b)
