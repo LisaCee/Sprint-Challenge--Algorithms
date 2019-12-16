@@ -9,7 +9,7 @@ a) space: O(1)
 b) space: O(1)
    time: O(n ^2) --nested loops cause program to increase size based on n
 
-c)
+c) time: O(n) -- for each bigger n, the programs must be called n times
 
 ## Exercise II
 
